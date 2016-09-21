@@ -1,6 +1,7 @@
 (function(skp11) {
     'use strict';
 
+    skp11.common = skp11.common || {};
     skp11.common = {
         blankImage: function(imageObj, rect) {
             var imagePath;
