@@ -8,3 +8,6 @@
 ``` html
 <img src="thumb_A.jpg" width="50" height="50" alt="" onerror="skp11.common.blankImage(this, '50x50');">
 ```
+
+## Demo
+https://rawgit.com/bowaxwing/image-onerror/master/index.html
